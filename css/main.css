@@ -10,6 +10,7 @@ body {
 .top, .bottom {
   padding: 16px;
   border-bottom: 1px solid #ddd;
+  background: #f6f6f6;
 }
 
 .wrap {
