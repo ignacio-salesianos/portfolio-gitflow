@@ -47,3 +47,8 @@ body {
   border-color: #999;
 }
 
+.nav a:hover,
+.nav a:focus {
+  border-bottom-color: #333;
+  opacity: 0.85;
+}
